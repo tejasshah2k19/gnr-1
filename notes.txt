@@ -53,3 +53,21 @@ variable -> 3 type
 --------------------------------------------------------------------------
 
 Constructor -> 
+
+---------------------------------------------------------------------------
+
+IPL ->
+
+
+Player -> name category {bw,bt,all} age totalScore totalWickets totalIningsPlayed 
+
+you have two option to init.  player 
+
+if user want to add all info then u have to read it and add the player  
+if user dont want then u have to pass default values 
+
+to print all info for particular player we have display method 
+
+we want to create 2 player 
+
+---------------------------------------------------------------------
