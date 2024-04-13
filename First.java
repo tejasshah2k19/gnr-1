@@ -75,3 +75,9 @@ class First{
 
 
 
+//class contains two properties -> 
+        //method 
+        //variable 
+
+    //to create a class we have to use class keyword 
+    

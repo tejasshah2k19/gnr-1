@@ -1,0 +1,55 @@
+when we compile java file we will get .class file 
+
+and .class file contains byte code -> 
+
+who is going to read bytecode -> JRE -> JVM 
+
+
+
+Student s  = new Student(); 
+
+
+
+memory 
+
+    s -> name 
+         maths 
+         sci    
+         eng  
+         
+Student s2 = new Student(); 
+
+    s2 -> name 
+          maths
+          sci   
+          eng 
+
+    
+if i create 500 objects then how many times name variable created? 
+500 
+
+1 instance - 1 
+2 instance - 2 
+
+per instance -> copy 
+
+class level variable -> instance variable 
+
+
+variable -> 3 type 
+
+
+1) instance variable -> class  -> object or instance -> n time -> heap 
+2) static variable   -> class  -> classname access -> 1 time   -> heap 
+3) local variable -> method , loop -> stack 
+
+
+500 instance -> Student 
+    name maths sci eng  : 500 time 
+    collegeCode : 1 time 
+
+   instance -> share  
+
+--------------------------------------------------------------------------
+
+Constructor -> 
