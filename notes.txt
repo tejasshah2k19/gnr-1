@@ -71,3 +71,68 @@ to print all info for particular player we have display method
 we want to create 2 player 
 
 ---------------------------------------------------------------------
+
+
+inheritance ->object of one class can access property of another class 
+            -> sharing 
+            -> reusablity 
+
+    to achieve inheritance we use extends keywords in class 
+
+    class -> property -> give -> PARENT , SUPER , BASE 
+    class -> property -> take -> child , derived , sub 
+    
+
+five types -> 
+    single level 
+    multi level
+    multiple -> class directly {interface}
+    hirerchical 
+    hybrid -> combine any two inheritance 
+
+
+super keyword -> super keyword is used to access parent's property {method,variable}from child 
+                        parent is direct parent 
+                        if direct parent does not have that property then 
+                        it calls indirect parents 
+
+
+input1()
+input2()
+input3()
+
+input()
+input()
+input()
+
+----------------------------------------------------------------------
+                        Animal 
+
+                WildAnimal      PetAnimal 
+            Monkey                  Dog 
+    Lagoon  Langoor            Le           Pom 
+
+
+
+    Lagoon.walk() 
+
+Overriding -> Parent method => same signature child => 
+
+-------------------------------------------
+can we create add method in calc class more than 1 time 
+can we create same method more than 1 time in same class 
+YES 
+method overloading -> 
+        add(12,12)
+        add(121,12,121)
+
+overloading can be perform in 1 class or in parent child 
+
+Overriding can be perform in parent child only 
+--------------------------------------------------------------------
+Polymorphic object -> 
+
+
+
+
+
