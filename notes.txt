@@ -132,7 +132,20 @@ Overriding can be perform in parent child only
 --------------------------------------------------------------------
 Polymorphic object -> 
 
+---------------------------------------------------------------------
 
+final  keyword -> 
+    class - yes  - no one can inherit 
+    method - yes  - no one can override 
+    variable - yes  - no one can modify 
 
+---------------------------------------------------------------------
+abstract -> 
+    class - yes 
+    method - yes - we dont have defination - body - we have only declaration 
+    variable - no 
+
+    
+----------------------------------------------------------------------    
 
 
