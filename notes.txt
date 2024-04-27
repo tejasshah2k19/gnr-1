@@ -148,4 +148,15 @@ abstract ->
     
 ----------------------------------------------------------------------    
 
+interface -> pure abstract class 
 
+    interface has all the method abstract by default 
+
+to create interface we will use interface keyword 
+
+class implements the interface 
+
+class - class : extends 
+class - interface : implements 
+
+-------------------------------------------------------------------------
