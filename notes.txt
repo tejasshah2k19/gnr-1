@@ -160,3 +160,11 @@ class - class : extends
 class - interface : implements 
 
 -------------------------------------------------------------------------
+
+
+row X col -> matrix 
+2D 
+graph -> plot -> x y 
+
+
+int x[][]; //declartion 
